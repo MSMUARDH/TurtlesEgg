@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "name": "Book",
+      "price": 10.99,
+      "imgUrl": "/imgs/book.jpg",
+      "images":[
+        {
+          "img": "/imgs/book.jpg",
+          "title": "bk1"
+        },
+        {
+          "img": "/imgs/book.jpg",
+          "title": "bk1"
+        },
+        {
+          "img": "https://images.unsplash.com/photo-1522770179533-24471fcdba45",
+          "title": "Camera"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Computer",
+      "price": 1199,
+      "imgUrl": "/imgs/computer.jpg",
+      "images":[
+        {
+          "img": "/imgs/computer.jpg",
+          "title": "cp1"
+        },
+        {
+          "img": "/imgs/computer.jpg",
+          "title": "cp2"
+        },
+        {
+          "img": "/imgs/computer.jpg",
+          "title": "cp3"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Pressure Monitor ",
+      "price": 5.05,
+      "imgUrl": "/imgs/pm.jpg",
+      "images":[
+        {
+          "img": "/imgs/pm.jpg",
+          "title": "pm1"
+        },
+        {
+          "img": "/imgs/pm.jpg",
+          "title": "pm2"
+        },
+        {
+          "img": "https://images.unsplash.com/photo-1522770179533-24471fcdba45",
+          "title": "pm3"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Car",
+      "price": 14000,
+      "imgUrl": "/imgs/car.jpg",
+      "images":[
+        {
+          "img": "/imgs/car.jpg",
+          "title": "cr1"
+        },
+        {
+          "img": "/imgs/car.jpg",
+          "title": "cr2"
+        },
+        {
+          "img": "/imgs/car.jpg",
+          "title": "cr3"
+        }
+      ]
+    },
+
+    {
+      "id": 5,
+      "name": "Car",
+      "price": 14000,
+      "imgUrl": "/imgs/cam.jpg",
+      "images":[
+        {
+          "img": "/imgs/cam.jpg",
+          "title": "cam1"
+        },
+        {
+          "img": "/imgs/cam.jpg",
+          "title": "cam2"
+        },
+        {
+          "img": "/imgs/cam.jpg",
+          "title": "cam3"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Arduino-Uno",
+      "price": 50,
+      "imgUrl": "/imgs/uno.jpg",
+      "images":[
+        {
+          "img": "/imgs/uno.jpg",
+          "title": "un1"
+        },
+        {
+          "img": "/imgs/uno.jpg",
+          "title": "un2"
+        },
+        {
+          "img": "/imgs/uno.jpg",
+          "title": "un3"
+        }
+      ]
+    }
+  ]
